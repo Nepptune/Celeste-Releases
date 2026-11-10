@@ -1,6 +1,18 @@
 {
   "links": [
-    { "it": "Community", "en": "Community", "url": "https://github.com/Nepptune/Celeste-Releases", "enabled": true },
-    { "it": "Novità", "en": "Updates", "url": "https://github.com/Nepptune/Celeste-Releases/releases", "enabled": true }
+    {
+      "it": "Discord",
+      "en": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/TUO_INVITO",
+      "enabled": true
+    },
+    {
+      "it": "YouTube",
+      "en": "YouTube",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@TUO_CANALE",
+      "enabled": true
+    }
   ]
 }
