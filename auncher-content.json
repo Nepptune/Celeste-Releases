@@ -1,0 +1,6 @@
+{
+  "links": [
+    { "it": "Community", "en": "Community", "url": "https://github.com/Nepptune/Celeste-Releases", "enabled": true },
+    { "it": "Novità", "en": "Updates", "url": "https://github.com/Nepptune/Celeste-Releases/releases", "enabled": true }
+  ]
+}
